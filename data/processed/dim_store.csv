@@ -1,0 +1,11 @@
+store_id,city,state,address,postal_code,opening_date
+1,Jaipur,Rajasthan,"H.No. 491, Ramanathan Nagar, Jaipur, Rajasthan",501310,2018-04-08
+2,Jaipur,Rajasthan,"270, Garde Zila, Jaipur, Rajasthan",817284,2021-05-14
+3,Hyderabad,Telangana,"28, Raval Zila, Hyderabad, Telangana",553116,2015-11-16
+4,Kolkata,West Bengal,"H.No. 62, Dar Road, Kolkata, West Bengal",364139,2016-11-21
+5,Mumbai,Maharashtra,"37/77, Sahota Chowk, Mumbai, Maharashtra",336544,2021-03-28
+6,Hyderabad,Telangana,"69/40, Chaudhari Circle, Hyderabad, Telangana",776132,2020-10-09
+7,Bangalore,Karnataka,"22/766, Chowdhury Nagar, Bangalore, Karnataka",769255,2018-01-30
+8,Mumbai,Maharashtra,"195, Jaggi Ganj, Mumbai, Maharashtra",842513,2018-07-30
+9,Bangalore,Karnataka,"H.No. 81, Chand Marg, Bangalore, Karnataka",732666,2017-02-25
+10,Mumbai,Maharashtra,"393, Kamdar Nagar, Mumbai, Maharashtra",204625,2020-05-05

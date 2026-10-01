@@ -1,0 +1,158 @@
+[
+  {
+    "name": "unique_key:dim_store.store_id",
+    "passed": true,
+    "detail": "0 duplicate keys",
+    "critical": true
+  },
+  {
+    "name": "unique_key:dim_product.product_id",
+    "passed": true,
+    "detail": "0 duplicate keys",
+    "critical": true
+  },
+  {
+    "name": "unique_key:dim_date.date_id",
+    "passed": true,
+    "detail": "0 duplicate keys",
+    "critical": true
+  },
+  {
+    "name": "unique_key:fact_inventory.inventory_fact_id",
+    "passed": true,
+    "detail": "0 duplicate keys",
+    "critical": true
+  },
+  {
+    "name": "fact_grain_unique",
+    "passed": true,
+    "detail": "0 duplicate date/store/product rows",
+    "critical": true
+  },
+  {
+    "name": "no_nulls:dim_store",
+    "passed": true,
+    "detail": "0 null values",
+    "critical": true
+  },
+  {
+    "name": "no_nulls:dim_product",
+    "passed": true,
+    "detail": "0 null values",
+    "critical": true
+  },
+  {
+    "name": "no_nulls:dim_date",
+    "passed": true,
+    "detail": "0 null values",
+    "critical": true
+  },
+  {
+    "name": "no_nulls:fact_inventory",
+    "passed": true,
+    "detail": "0 null values",
+    "critical": true
+  },
+  {
+    "name": "fk_coverage:store_id",
+    "passed": true,
+    "detail": "0 fact rows without a matching dimension row",
+    "critical": true
+  },
+  {
+    "name": "fk_coverage:product_id",
+    "passed": true,
+    "detail": "0 fact rows without a matching dimension row",
+    "critical": true
+  },
+  {
+    "name": "fk_coverage:date_id",
+    "passed": true,
+    "detail": "0 fact rows without a matching dimension row",
+    "critical": true
+  },
+  {
+    "name": "measures_non_negative",
+    "passed": true,
+    "detail": "0 negative values",
+    "critical": true
+  },
+  {
+    "name": "prices_positive",
+    "passed": true,
+    "detail": "0 non-positive prices",
+    "critical": true
+  },
+  {
+    "name": "revenue_matches_units_x_price",
+    "passed": true,
+    "detail": "max gap 0.0000",
+    "critical": true
+  },
+  {
+    "name": "no_sales_before_store_opening",
+    "passed": true,
+    "detail": "0 rows",
+    "critical": true
+  },
+  {
+    "name": "units_sold_exceeds_inventory",
+    "passed": true,
+    "detail": "5.5% of rows sold more than the recorded inventory level",
+    "critical": false
+  },
+  {
+    "name": "stores_without_activity",
+    "passed": true,
+    "detail": "5 stores have no fact rows: [6, 7, 8, 9, 10]",
+    "critical": false
+  },
+  {
+    "name": "products_without_activity",
+    "passed": true,
+    "detail": "54 products have no fact rows",
+    "critical": false
+  },
+  {
+    "name": "row_count:dim_store",
+    "passed": true,
+    "detail": "expected 10, found 10",
+    "critical": true
+  },
+  {
+    "name": "row_count:dim_product",
+    "passed": true,
+    "detail": "expected 500, found 500",
+    "critical": true
+  },
+  {
+    "name": "row_count:dim_date",
+    "passed": true,
+    "detail": "expected 731, found 731",
+    "critical": true
+  },
+  {
+    "name": "row_count:fact_inventory",
+    "passed": true,
+    "detail": "expected 6424, found 6424",
+    "critical": true
+  },
+  {
+    "name": "db_orphans:dim_store",
+    "passed": true,
+    "detail": "0 orphan fact rows",
+    "critical": true
+  },
+  {
+    "name": "db_orphans:dim_product",
+    "passed": true,
+    "detail": "0 orphan fact rows",
+    "critical": true
+  },
+  {
+    "name": "db_orphans:dim_date",
+    "passed": true,
+    "detail": "0 orphan fact rows",
+    "critical": true
+  }
+]

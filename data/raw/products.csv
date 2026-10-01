@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Price,Competitor_Pricing
+1,Product_1,Beauty,Haircare,Glamora,104.06,95.92
+2,Product_2,Beauty,Skincare,RadiantYou,173.32,182.5
+3,Product_3,Books,Academic,LitHaven,52.22,55.98
+4,Product_4,Beauty,Makeup,PureGlow,139.04,134.17
+5,Product_5,Fashion,Accessories,Fashionova,151.02,160.28
+6,Product_6,Electronics,Headphones,TechWave,1746.96,1746.3
+7,Product_7,Books,Non-Fiction,PageTurners,98.89,98.57
+8,Product_8,Groceries,Beverages,PurePantry,49.6,47.09
+9,Product_9,Beauty,Haircare,LuxeBeauty,124.4,118.49
+10,Product_10,Beauty,Makeup,Glamora,178.6,175.07
+11,Product_11,Groceries,Daily Essentials,PurePantry,17.58,9.35
+12,Product_12,Beauty,Haircare,SkinEssence,153.59,146.67
+13,Product_13,Fashion,Footwear,Fashionova,99.76,101.31
+14,Product_14,Groceries,Beverages,OrganicNest,31.07,34.07
+15,Product_15,Home Appliances,Refrigerator,GenericBrand,2244.19,2242.73
+16,Product_16,Beauty,Skincare,LuxeBeauty,118.91,111.64
+17,Product_17,Groceries,Beverages,OrganicNest,34.14,40.94
+18,Product_18,Groceries,Daily Essentials,OrganicNest,48.85,40.71
+19,Product_19,Groceries,Beverages,GreenBasket,12.53,9.42
+20,Product_20,Groceries,Beverages,DailyHarvest,50.65,43.18
+21,Product_21,Home Appliances,Refrigerator,GenericBrand,3068.85,3063.36
+22,Product_22,Groceries,Daily Essentials,OrganicNest,48.02,39.07
+23,Product_23,Home Appliances,Refrigerator,GenericBrand,2386.79,2392.4
+24,Product_24,Electronics,Laptop,CircuitCraft,1724.27,1727.96
+25,Product_25,Electronics,Camera,CircuitCraft,1262.32,1260.22
+26,Product_26,Fashion,Accessories,Fashionova,170.34,161.5
+27,Product_27,Beauty,Makeup,LuxeBeauty,103.54,114.23
+28,Product_28,Electronics,Laptop,SmartEdge,2488.67,2481.96
+29,Product_29,Fashion,Footwear,TrendVogue,54.6,50.2
+30,Product_30,Beauty,Haircare,Glamora,77.1,71.16
+31,Product_31,Groceries,Beverages,GreenBasket,23.63,22.04
+32,Product_32,Fashion,Footwear,ModaFusion,153.14,150.91
+33,Product_33,Beauty,Skincare,PureGlow,125.63,121.25
+34,Product_34,Beauty,Makeup,RadiantYou,132.66,136.12
+35,Product_35,Beauty,Haircare,SkinEssence,95.78,102.25
+36,Product_36,Fashion,Clothing,Fashionova,119.51,126.48
+37,Product_37,Beauty,Haircare,SkinEssence,66.07,74.42
+38,Product_38,Books,Sci-Fi,InkWell,78.89,77.0
+39,Product_39,Books,Academic,Readify,35.48,38.04
+40,Product_40,Fashion,Footwear,ChicStyle,220.62,226.06
+41,Product_41,Home Appliances,Microwave,GenericBrand,2228.33,2220.0
+42,Product_42,Books,Sci-Fi,NovelNest,80.33,74.87
+43,Product_43,Electronics,Laptop,CircuitCraft,1366.81,1363.33
+44,Product_44,Books,Sci-Fi,Readify,24.36,29.33
+45,Product_45,Beauty,Haircare,Glamora,196.99,199.82
+46,Product_46,Home Appliances,Washing Machine,GenericBrand,2973.51,2976.62
+47,Product_47,Beauty,Skincare,Glamora,164.19,171.62
+48,Product_48,Fashion,Footwear,ModaFusion,151.59,150.34
+49,Product_49,Home Appliances,Washing Machine,GenericBrand,2600.46,2601.99
+50,Product_50,Groceries,Beverages,GreenBasket,13.94,20.62
+51,Product_51,Home Appliances,Washing Machine,GenericBrand,2337.01,2333.43
+52,Product_52,Home Appliances,Refrigerator,GenericBrand,2577.26,2576.11
+53,Product_53,Groceries,Daily Essentials,OrganicNest,16.45,9.94
+54,Product_54,Groceries,Beverages,DailyHarvest,51.71,46.21
+55,Product_55,Home Appliances,Refrigerator,GenericBrand,2918.83,2925.92
+56,Product_56,Home Appliances,Refrigerator,GenericBrand,2567.14,2560.94
+57,Product_57,Home Appliances,Washing Machine,GenericBrand,3310.46,3301.86
+58,Product_58,Books,Romance,Readify,35.83,43.02
+59,Product_59,Groceries,Daily Essentials,FreshMart,34.94,35.62
+60,Product_60,Electronics,Headphones,CircuitCraft,1778.42,1772.75
+61,Product_61,Books,Non-Fiction,PageTurners,79.74,73.1
+62,Product_62,Books,Sci-Fi,NovelNest,83.02,75.17
+63,Product_63,Home Appliances,Refrigerator,GenericBrand,2697.71,2701.58
+64,Product_64,Beauty,Skincare,SkinEssence,135.28,138.32
+65,Product_65,Groceries,Daily Essentials,GreenBasket,48.21,56.71
+66,Product_66,Books,Romance,PageTurners,64.36,65.25
+67,Product_67,Beauty,Haircare,LuxeBeauty,175.86,169.61
+68,Product_68,Groceries,Daily Essentials,DailyHarvest,48.18,45.78
+69,Product_69,Electronics,Mobile,TechWave,2038.89,2046.78
+70,Product_70,Books,Fiction,LitHaven,25.46,28.6
+71,Product_71,Home Appliances,Microwave,GenericBrand,3066.42,3069.5
+72,Product_72,Fashion,Accessories,TrendVogue,220.83,230.14
+73,Product_73,Fashion,Footwear,Fashionova,177.99,169.34
+74,Product_74,Fashion,Accessories,Fashionova,171.54,173.66
+75,Product_75,Electronics,Laptop,ElectroMax,890.9,888.13
+76,Product_76,Groceries,Beverages,DailyHarvest,13.27,23.28
+77,Product_77,Beauty,Haircare,PureGlow,52.17,51.59
+78,Product_78,Home Appliances,Microwave,GenericBrand,3171.84,3179.66
+79,Product_79,Electronics,Laptop,TechWave,1839.01,1839.07
+80,Product_80,Electronics,Laptop,GadgetPro,2326.44,2334.75
+81,Product_81,Fashion,Accessories,TrendVogue,93.35,86.54
+82,Product_82,Fashion,Clothing,Fashionova,239.35,246.66
+83,Product_83,Home Appliances,Microwave,GenericBrand,2792.14,2797.89
+84,Product_84,Fashion,Accessories,Fashionova,34.05,30.8
+85,Product_85,Home Appliances,Microwave,GenericBrand,3132.12,3134.75
+86,Product_86,Fashion,Footwear,ModaFusion,203.87,196.48
+87,Product_87,Books,Non-Fiction,Readify,84.13,92.86
+88,Product_88,Fashion,Footwear,ChicStyle,215.33,213.28
+89,Product_89,Home Appliances,Washing Machine,GenericBrand,2438.02,2444.03
+90,Product_90,Fashion,Footwear,Fashionova,200.03,204.64
+91,Product_91,Groceries,Daily Essentials,DailyHarvest,45.1,45.86
+92,Product_92,Electronics,Headphones,CircuitCraft,1044.68,1041.06
+93,Product_93,Beauty,Makeup,PureGlow,111.13,119.78
+94,Product_94,Books,Fiction,NovelNest,92.73,97.58
+95,Product_95,Electronics,Laptop,ElectroMax,2232.88,2228.06
+96,Product_96,Groceries,Beverages,GreenBasket,27.49,21.83
+97,Product_97,Electronics,Laptop,ElectroMax,1541.91,1540.48
+98,Product_98,Books,Sci-Fi,NovelNest,78.24,78.84
+99,Product_99,Books,Sci-Fi,NovelNest,73.47,67.0
+100,Product_100,Electronics,Mobile,CircuitCraft,847.03,841.94
+101,Product_101,Fashion,Accessories,ModaFusion,145.11,153.13
+102,Product_102,Beauty,Skincare,Glamora,104.49,104.48
+103,Product_103,Beauty,Skincare,RadiantYou,121.9,130.78
+104,Product_104,Electronics,Laptop,CircuitCraft,1673.4,1681.48
+105,Product_105,Groceries,Daily Essentials,GreenBasket,41.25,38.14
+106,Product_106,Groceries,Daily Essentials,FreshMart,27.88,21.06
+107,Product_107,Electronics,Headphones,TechWave,1805.69,1812.45
+108,Product_108,Beauty,Haircare,LuxeBeauty,149.48,159.29
+109,Product_109,Home Appliances,Washing Machine,GenericBrand,2970.91,2979.8
+110,Product_110,Beauty,Skincare,Glamora,84.92,82.78
+111,Product_111,Home Appliances,Microwave,GenericBrand,2862.72,2872.13
+112,Product_112,Electronics,Laptop,ElectroMax,1024.85,1023.54
+113,Product_113,Fashion,Clothing,TrendVogue,100.32,95.03
+114,Product_114,Fashion,Clothing,ModaFusion,93.97,103.39
+115,Product_115,Home Appliances,Washing Machine,GenericBrand,2430.29,2434.85
+116,Product_116,Groceries,Beverages,GreenBasket,24.72,30.15
+117,Product_117,Beauty,Skincare,Glamora,132.49,128.06
+118,Product_118,Electronics,Mobile,ElectroMax,2425.52,2432.58
+119,Product_119,Books,Non-Fiction,NovelNest,86.44,92.85
+120,Product_120,Books,Academic,Readify,57.42,61.05
+121,Product_121,Books,Romance,PageTurners,29.71,33.48
+122,Product_122,Fashion,Accessories,ModaFusion,131.46,138.31
+123,Product_123,Groceries,Beverages,GreenBasket,20.34,22.66
+124,Product_124,Electronics,Mobile,TechWave,1478.29,1484.52
+125,Product_125,Books,Sci-Fi,LitHaven,42.85,37.79
+126,Product_126,Home Appliances,Refrigerator,GenericBrand,2409.65,2405.46
+127,Product_127,Electronics,Mobile,SmartEdge,2351.93,2357.28
+128,Product_128,Home Appliances,Microwave,GenericBrand,3375.07,3383.69
+129,Product_129,Books,Sci-Fi,Readify,28.87,35.6
+130,Product_130,Electronics,Mobile,TechWave,1139.84,1149.3
+131,Product_131,Fashion,Footwear,ChicStyle,115.27,123.38
+132,Product_132,Books,Academic,InkWell,60.61,63.01
+133,Product_133,Electronics,Laptop,SmartEdge,2427.15,2433.48
+134,Product_134,Home Appliances,Washing Machine,GenericBrand,2257.7,2253.6
+135,Product_135,Electronics,Camera,GadgetPro,1662.66,1665.32
+136,Product_136,Groceries,Beverages,DailyHarvest,27.39,22.36
+137,Product_137,Home Appliances,Refrigerator,GenericBrand,2660.04,2659.4
+138,Product_138,Groceries,Beverages,GreenBasket,33.78,25.48
+139,Product_139,Beauty,Makeup,RadiantYou,115.23,123.09
+140,Product_140,Beauty,Haircare,Glamora,123.44,131.43
+141,Product_141,Home Appliances,Refrigerator,GenericBrand,2069.39,2061.61
+142,Product_142,Books,Romance,LitHaven,90.39,93.47
+143,Product_143,Fashion,Clothing,EleganceCo,143.06,141.04
+144,Product_144,Home Appliances,Refrigerator,GenericBrand,2970.37,2964.38
+145,Product_145,Home Appliances,Microwave,GenericBrand,3031.32,3028.69
+146,Product_146,Home Appliances,Refrigerator,GenericBrand,2797.85,2794.49
+147,Product_147,Fashion,Footwear,UrbanThreads,37.37,35.42
+148,Product_148,Beauty,Haircare,SkinEssence,123.55,115.01
+149,Product_149,Electronics,Camera,GadgetPro,2068.7,2074.33
+150,Product_150,Home Appliances,Washing Machine,GenericBrand,2318.79,2324.5
+151,Product_151,Books,Fiction,LitHaven,49.8,56.66
+152,Product_152,Home Appliances,Washing Machine,GenericBrand,2833.95,2834.28
+153,Product_153,Home Appliances,Microwave,GenericBrand,2214.65,2208.27
+154,Product_154,Home Appliances,Microwave,GenericBrand,2301.12,2295.55
+155,Product_155,Fashion,Clothing,ModaFusion,111.67,117.23
+156,Product_156,Electronics,Laptop,SmartEdge,1961.62,1968.12
+157,Product_157,Books,Sci-Fi,Readify,45.17,52.05
+158,Product_158,Books,Fiction,PageTurners,29.76,28.96
+159,Product_159,Beauty,Skincare,PureGlow,85.54,89.45
+160,Product_160,Home Appliances,Microwave,GenericBrand,2659.5,2655.74
+161,Product_161,Electronics,Laptop,SmartEdge,1158.77,1167.94
+162,Product_162,Home Appliances,Washing Machine,GenericBrand,3293.85,3296.24
+163,Product_163,Books,Romance,Readify,74.88,74.89
+164,Product_164,Electronics,Laptop,CircuitCraft,815.25,812.88
+165,Product_165,Groceries,Beverages,FreshMart,48.52,57.28
+166,Product_166,Beauty,Makeup,PureGlow,108.33,104.73
+167,Product_167,Home Appliances,Washing Machine,GenericBrand,2328.22,2320.03
+168,Product_168,Beauty,Skincare,Glamora,182.7,177.4
+169,Product_169,Books,Non-Fiction,Readify,62.16,62.37
+170,Product_170,Beauty,Makeup,LuxeBeauty,188.94,188.85
+171,Product_171,Home Appliances,Microwave,GenericBrand,2282.69,2278.34
+172,Product_172,Groceries,Beverages,GreenBasket,50.77,54.98
+173,Product_173,Beauty,Makeup,LuxeBeauty,95.39,101.76
+174,Product_174,Groceries,Daily Essentials,DailyHarvest,15.81,19.09
+175,Product_175,Electronics,Headphones,GadgetPro,1551.91,1547.81
+176,Product_176,Beauty,Skincare,Glamora,100.97,106.8
+177,Product_177,Fashion,Accessories,ChicStyle,34.84,30.97
+178,Product_178,Electronics,Mobile,SmartEdge,1280.44,1276.31
+179,Product_179,Fashion,Footwear,ModaFusion,205.49,202.25
+180,Product_180,Books,Sci-Fi,InkWell,91.03,93.0
+181,Product_181,Groceries,Daily Essentials,OrganicNest,28.46,32.58
+182,Product_182,Groceries,Beverages,OrganicNest,47.23,52.62
+183,Product_183,Electronics,Headphones,GadgetPro,1680.15,1688.73
+184,Product_184,Beauty,Haircare,RadiantYou,107.47,102.61
+185,Product_185,Beauty,Skincare,Glamora,58.87,54.15
+186,Product_186,Groceries,Daily Essentials,OrganicNest,18.99,24.87
+187,Product_187,Groceries,Daily Essentials,GreenBasket,43.6,51.79
+188,Product_188,Beauty,Makeup,Glamora,65.18,55.22
+189,Product_189,Electronics,Mobile,SmartEdge,2283.64,2286.22
+190,Product_190,Beauty,Skincare,PureGlow,70.73,63.98
+191,Product_191,Beauty,Skincare,RadiantYou,181.34,173.35
+192,Product_192,Books,Academic,PageTurners,90.14,80.89
+193,Product_193,Beauty,Haircare,LuxeBeauty,48.38,47.85
+194,Product_194,Groceries,Daily Essentials,DailyHarvest,13.9,20.2
+195,Product_195,Beauty,Haircare,Glamora,53.76,62.69
+196,Product_196,Books,Non-Fiction,NovelNest,43.34,48.56
+197,Product_197,Electronics,Mobile,ElectroMax,2081.57,2085.6
+198,Product_198,Electronics,Mobile,SmartEdge,1642.03,1646.47
+199,Product_199,Groceries,Beverages,OrganicNest,10.44,17.88
+200,Product_200,Groceries,Beverages,FreshMart,45.7,38.77
+201,Product_201,Groceries,Beverages,GreenBasket,22.78,28.58
+202,Product_202,Books,Academic,InkWell,88.51,81.34
+203,Product_203,Fashion,Clothing,Fashionova,79.94,84.85
+204,Product_204,Electronics,Camera,CircuitCraft,1232.45,1239.65
+205,Product_205,Fashion,Clothing,UrbanThreads,165.83,164.61
+206,Product_206,Home Appliances,Refrigerator,GenericBrand,2961.08,2968.57
+207,Product_207,Fashion,Footwear,EleganceCo,72.72,65.67
+208,Product_208,Beauty,Skincare,LuxeBeauty,58.34,54.24
+209,Product_209,Home Appliances,Refrigerator,GenericBrand,3392.69,3395.29
+210,Product_210,Beauty,Skincare,SkinEssence,97.76,91.25
+211,Product_211,Beauty,Skincare,Glamora,188.88,180.16
+212,Product_212,Home Appliances,Washing Machine,GenericBrand,2032.93,2030.23
+213,Product_213,Electronics,Laptop,TechWave,1987.89,1980.81
+214,Product_214,Fashion,Clothing,ModaFusion,82.37,77.28
+215,Product_215,Books,Academic,InkWell,97.17,99.72
+216,Product_216,Home Appliances,Washing Machine,GenericBrand,3032.85,3030.14
+217,Product_217,Books,Fiction,InkWell,81.06,89.68
+218,Product_218,Fashion,Accessories,ChicStyle,122.61,128.43
+219,Product_219,Electronics,Camera,ElectroMax,1998.49,1998.04
+220,Product_220,Home Appliances,Microwave,GenericBrand,2177.68,2168.04
+221,Product_221,Groceries,Daily Essentials,PurePantry,17.48,18.09
+222,Product_222,Beauty,Makeup,PureGlow,132.66,132.36
+223,Product_223,Beauty,Skincare,Glamora,97.38,92.85
+224,Product_224,Fashion,Footwear,TrendVogue,186.27,193.3
+225,Product_225,Electronics,Laptop,SmartEdge,2344.73,2336.54
+226,Product_226,Beauty,Makeup,LuxeBeauty,188.03,196.14
+227,Product_227,Groceries,Beverages,OrganicNest,35.45,42.59
+228,Product_228,Electronics,Headphones,GadgetPro,1727.56,1731.16
+229,Product_229,Home Appliances,Microwave,GenericBrand,2614.93,2624.02
+230,Product_230,Groceries,Beverages,FreshMart,27.34,24.51
+231,Product_231,Home Appliances,Microwave,GenericBrand,2216.47,2214.48
+232,Product_232,Beauty,Makeup,RadiantYou,115.19,113.67
+233,Product_233,Fashion,Footwear,UrbanThreads,171.34,170.22
+234,Product_234,Beauty,Haircare,SkinEssence,52.35,43.95
+235,Product_235,Groceries,Daily Essentials,DailyHarvest,32.01,36.43
+236,Product_236,Beauty,Makeup,PureGlow,152.26,154.67
+237,Product_237,Electronics,Headphones,ElectroMax,2028.93,2033.46
+238,Product_238,Groceries,Daily Essentials,OrganicNest,18.08,26.57
+239,Product_239,Groceries,Daily Essentials,FreshMart,29.84,27.12
+240,Product_240,Electronics,Laptop,TechWave,1520.44,1527.87
+241,Product_241,Fashion,Accessories,EleganceCo,102.93,111.8
+242,Product_242,Home Appliances,Microwave,GenericBrand,2199.01,2200.27
+243,Product_243,Groceries,Beverages,FreshMart,11.19,19.13
+244,Product_244,Beauty,Haircare,RadiantYou,97.9,100.71
+245,Product_245,Home Appliances,Washing Machine,GenericBrand,2052.89,2059.09
+246,Product_246,Electronics,Headphones,SmartEdge,1357.98,1352.32
+247,Product_247,Electronics,Laptop,TechWave,1054.3,1062.52
+248,Product_248,Fashion,Clothing,EleganceCo,107.74,112.78
+249,Product_249,Electronics,Headphones,GadgetPro,965.67,963.79
+250,Product_250,Home Appliances,Washing Machine,GenericBrand,2725.33,2723.35
+251,Product_251,Groceries,Daily Essentials,GreenBasket,14.28,15.47
+252,Product_252,Groceries,Beverages,OrganicNest,21.84,14.21
+253,Product_253,Beauty,Skincare,Glamora,171.0,177.94
+254,Product_254,Beauty,Makeup,RadiantYou,187.46,179.26
+255,Product_255,Fashion,Footwear,UrbanThreads,219.15,222.9
+256,Product_256,Fashion,Accessories,ModaFusion,236.92,242.63
+257,Product_257,Groceries,Daily Essentials,GreenBasket,48.03,56.88
+258,Product_258,Fashion,Clothing,EleganceCo,57.78,64.46
+259,Product_259,Home Appliances,Washing Machine,GenericBrand,2728.35,2728.95
+260,Product_260,Groceries,Daily Essentials,PurePantry,12.99,8.47
+261,Product_261,Electronics,Headphones,CircuitCraft,1860.18,1869.81
+262,Product_262,Electronics,Laptop,GadgetPro,2432.34,2425.31
+263,Product_263,Groceries,Beverages,PurePantry,52.31,60.04
+264,Product_264,Fashion,Accessories,EleganceCo,178.48,184.55
+265,Product_265,Beauty,Haircare,LuxeBeauty,135.29,144.67
+266,Product_266,Electronics,Mobile,CircuitCraft,2383.49,2386.78
+267,Product_267,Groceries,Daily Essentials,DailyHarvest,16.79,8.26
+268,Product_268,Groceries,Daily Essentials,PurePantry,44.1,48.35
+269,Product_269,Groceries,Beverages,FreshMart,38.86,34.77
+270,Product_270,Beauty,Haircare,LuxeBeauty,112.47,109.48
+271,Product_271,Books,Romance,NovelNest,52.4,44.54
+272,Product_272,Beauty,Makeup,SkinEssence,106.32,99.45
+273,Product_273,Beauty,Makeup,Glamora,89.66,91.3
+274,Product_274,Fashion,Clothing,ChicStyle,182.07,174.55
+275,Product_275,Fashion,Accessories,Fashionova,239.11,242.05
+276,Product_276,Home Appliances,Washing Machine,GenericBrand,2268.21,2264.34
+277,Product_277,Books,Non-Fiction,InkWell,70.47,79.29
+278,Product_278,Beauty,Makeup,LuxeBeauty,131.95,136.41
+279,Product_279,Fashion,Accessories,ChicStyle,85.06,88.15
+280,Product_280,Home Appliances,Washing Machine,GenericBrand,2325.91,2320.07
+281,Product_281,Groceries,Daily Essentials,PurePantry,25.17,27.81
+282,Product_282,Fashion,Clothing,UrbanThreads,215.43,224.4
+283,Product_283,Groceries,Daily Essentials,DailyHarvest,55.6,60.95
+284,Product_284,Beauty,Makeup,Glamora,60.75,66.48
+285,Product_285,Books,Non-Fiction,Readify,74.97,71.41
+286,Product_286,Electronics,Camera,GadgetPro,1118.12,1120.54
+287,Product_287,Home Appliances,Refrigerator,GenericBrand,3393.52,3383.08
+288,Product_288,Books,Romance,NovelNest,61.6,62.15
+289,Product_289,Books,Romance,NovelNest,52.54,46.51
+290,Product_290,Beauty,Makeup,SkinEssence,47.32,41.32
+291,Product_291,Books,Sci-Fi,InkWell,57.02,54.75
+292,Product_292,Home Appliances,Microwave,GenericBrand,2696.76,2697.67
+293,Product_293,Groceries,Beverages,GreenBasket,17.93,8.32
+294,Product_294,Books,Sci-Fi,NovelNest,35.73,42.37
+295,Product_295,Books,Sci-Fi,InkWell,32.13,25.86
+296,Product_296,Fashion,Footwear,TrendVogue,80.72,72.08
+297,Product_297,Electronics,Laptop,GadgetPro,2307.48,2298.64
+298,Product_298,Home Appliances,Washing Machine,GenericBrand,3015.02,3005.21
+299,Product_299,Groceries,Beverages,PurePantry,55.16,54.84
+300,Product_300,Groceries,Daily Essentials,GreenBasket,22.56,25.93
+301,Product_301,Groceries,Beverages,OrganicNest,34.58,25.56
+302,Product_302,Groceries,Beverages,GreenBasket,55.19,52.36
+303,Product_303,Electronics,Headphones,GadgetPro,2348.36,2356.35
+304,Product_304,Beauty,Makeup,Glamora,189.81,186.26
+305,Product_305,Books,Sci-Fi,NovelNest,75.86,69.86
+306,Product_306,Electronics,Laptop,ElectroMax,2250.75,2246.92
+307,Product_307,Electronics,Laptop,GadgetPro,1839.78,1839.11
+308,Product_308,Electronics,Camera,GadgetPro,1465.99,1459.29
+309,Product_309,Fashion,Footwear,UrbanThreads,233.11,241.03
+310,Product_310,Electronics,Camera,TechWave,2012.21,2006.33
+311,Product_311,Books,Sci-Fi,NovelNest,84.73,84.65
+312,Product_312,Beauty,Skincare,PureGlow,93.62,103.87
+313,Product_313,Beauty,Makeup,PureGlow,140.2,147.01
+314,Product_314,Groceries,Beverages,DailyHarvest,7.95,10.37
+315,Product_315,Groceries,Beverages,GreenBasket,12.56,20.52
+316,Product_316,Groceries,Daily Essentials,FreshMart,5.78,6.47
+317,Product_317,Groceries,Daily Essentials,FreshMart,37.61,39.91
+318,Product_318,Beauty,Skincare,Glamora,111.73,110.11
+319,Product_319,Groceries,Daily Essentials,OrganicNest,39.26,32.31
+320,Product_320,Home Appliances,Microwave,GenericBrand,3251.28,3260.19
+321,Product_321,Books,Academic,LitHaven,21.32,19.22
+322,Product_322,Books,Fiction,InkWell,76.43,67.55
+323,Product_323,Beauty,Haircare,LuxeBeauty,102.65,108.8
+324,Product_324,Home Appliances,Refrigerator,GenericBrand,3240.18,3230.35
+325,Product_325,Fashion,Clothing,UrbanThreads,236.38,226.05
+326,Product_326,Electronics,Mobile,GadgetPro,893.92,890.27
+327,Product_327,Books,Fiction,Readify,21.66,30.59
+328,Product_328,Beauty,Makeup,LuxeBeauty,77.97,83.04
+329,Product_329,Electronics,Camera,TechWave,2397.95,2390.81
+330,Product_330,Groceries,Beverages,PurePantry,55.96,48.81
+331,Product_331,Fashion,Footwear,EleganceCo,128.62,121.85
+332,Product_332,Beauty,Skincare,PureGlow,178.96,184.48
+333,Product_333,Books,Sci-Fi,Readify,62.38,67.24
+334,Product_334,Groceries,Beverages,FreshMart,27.38,25.31
+335,Product_335,Fashion,Clothing,ModaFusion,190.45,189.3
+336,Product_336,Fashion,Clothing,UrbanThreads,225.84,222.27
+337,Product_337,Books,Academic,Readify,69.12,64.96
+338,Product_338,Home Appliances,Refrigerator,GenericBrand,2076.28,2076.48
+339,Product_339,Home Appliances,Microwave,GenericBrand,2554.86,2548.76
+340,Product_340,Home Appliances,Refrigerator,GenericBrand,2797.63,2794.79
+341,Product_341,Electronics,Mobile,ElectroMax,1750.46,1741.67
+342,Product_342,Beauty,Makeup,PureGlow,97.52,89.63
+343,Product_343,Home Appliances,Microwave,GenericBrand,2297.0,2288.5
+344,Product_344,Home Appliances,Washing Machine,GenericBrand,3393.58,3389.96
+345,Product_345,Books,Fiction,NovelNest,21.47,25.31
+346,Product_346,Home Appliances,Refrigerator,GenericBrand,2301.28,2311.32
+347,Product_347,Groceries,Beverages,PurePantry,39.32,38.76
+348,Product_348,Fashion,Footwear,EleganceCo,127.96,122.7
+349,Product_349,Books,Academic,PageTurners,95.14,90.34
+350,Product_350,Home Appliances,Washing Machine,GenericBrand,2025.66,2032.03
+351,Product_351,Electronics,Laptop,GadgetPro,2038.31,2040.69
+352,Product_352,Home Appliances,Washing Machine,GenericBrand,3077.26,3078.26
+353,Product_353,Home Appliances,Microwave,GenericBrand,3248.71,3244.8
+354,Product_354,Home Appliances,Washing Machine,GenericBrand,3335.28,3332.94
+355,Product_355,Electronics,Mobile,TechWave,1745.85,1754.99
+356,Product_356,Books,Academic,InkWell,74.95,81.13
+357,Product_357,Fashion,Footwear,ModaFusion,70.68,73.44
+358,Product_358,Electronics,Headphones,TechWave,1481.37,1477.25
+359,Product_359,Groceries,Beverages,PurePantry,56.93,60.33
+360,Product_360,Home Appliances,Washing Machine,GenericBrand,3180.46,3182.76
+361,Product_361,Groceries,Beverages,DailyHarvest,47.56,44.18
+362,Product_362,Fashion,Accessories,ChicStyle,191.58,193.83
+363,Product_363,Fashion,Footwear,ModaFusion,247.72,249.72
+364,Product_364,Home Appliances,Washing Machine,GenericBrand,2487.71,2485.44
+365,Product_365,Groceries,Daily Essentials,GreenBasket,33.34,41.14
+366,Product_366,Fashion,Accessories,UrbanThreads,215.67,214.08
+367,Product_367,Home Appliances,Refrigerator,GenericBrand,3024.22,3017.73
+368,Product_368,Books,Academic,LitHaven,59.07,60.99
+369,Product_369,Electronics,Mobile,ElectroMax,903.49,897.74
+370,Product_370,Books,Sci-Fi,InkWell,38.99,36.42
+371,Product_371,Beauty,Haircare,LuxeBeauty,133.25,140.99
+372,Product_372,Beauty,Haircare,SkinEssence,77.61,77.22
+373,Product_373,Fashion,Accessories,ChicStyle,145.19,145.49
+374,Product_374,Fashion,Footwear,TrendVogue,225.9,235.65
+375,Product_375,Home Appliances,Refrigerator,GenericBrand,2828.97,2832.1
+376,Product_376,Beauty,Haircare,RadiantYou,60.07,63.53
+377,Product_377,Electronics,Mobile,CircuitCraft,1859.03,1861.82
+378,Product_378,Books,Fiction,Readify,74.02,68.96
+379,Product_379,Beauty,Skincare,SkinEssence,61.43,65.33
+380,Product_380,Electronics,Mobile,GadgetPro,1769.89,1778.73
+381,Product_381,Books,Non-Fiction,LitHaven,46.48,53.46
+382,Product_382,Fashion,Footwear,UrbanThreads,201.36,199.49
+383,Product_383,Beauty,Skincare,RadiantYou,124.86,130.4
+384,Product_384,Fashion,Footwear,UrbanThreads,99.83,99.97
+385,Product_385,Fashion,Footwear,Fashionova,221.02,215.55
+386,Product_386,Electronics,Mobile,GadgetPro,2162.39,2170.1
+387,Product_387,Electronics,Laptop,ElectroMax,1684.95,1688.97
+388,Product_388,Home Appliances,Washing Machine,GenericBrand,3338.32,3336.49
+389,Product_389,Electronics,Camera,GadgetPro,1131.02,1140.64
+390,Product_390,Beauty,Haircare,RadiantYou,115.45,119.01
+391,Product_391,Fashion,Clothing,Fashionova,191.83,189.15
+392,Product_392,Electronics,Headphones,TechWave,2459.83,2454.74
+393,Product_393,Fashion,Accessories,EleganceCo,192.18,183.06
+394,Product_394,Electronics,Camera,TechWave,1370.92,1372.7
+395,Product_395,Fashion,Accessories,EleganceCo,217.17,220.14
+396,Product_396,Groceries,Beverages,PurePantry,40.33,41.16
+397,Product_397,Beauty,Makeup,Glamora,87.88,92.59
+398,Product_398,Fashion,Clothing,UrbanThreads,84.15,77.23
+399,Product_399,Groceries,Daily Essentials,GreenBasket,5.41,4.85
+400,Product_400,Home Appliances,Refrigerator,GenericBrand,2778.85,2786.15
+401,Product_401,Home Appliances,Refrigerator,GenericBrand,2057.53,2058.86
+402,Product_402,Beauty,Skincare,PureGlow,45.03,43.24
+403,Product_403,Groceries,Daily Essentials,PurePantry,9.04,7.6
+404,Product_404,Books,Academic,LitHaven,48.33,56.51
+405,Product_405,Beauty,Makeup,LuxeBeauty,186.26,190.96
+406,Product_406,Groceries,Beverages,FreshMart,51.63,49.14
+407,Product_407,Beauty,Haircare,PureGlow,98.0,97.0
+408,Product_408,Electronics,Headphones,ElectroMax,1977.52,1973.2
+409,Product_409,Groceries,Beverages,OrganicNest,50.76,49.45
+410,Product_410,Electronics,Headphones,SmartEdge,1650.06,1640.15
+411,Product_411,Beauty,Haircare,SkinEssence,81.06,81.68
+412,Product_412,Books,Fiction,PageTurners,53.28,47.17
+413,Product_413,Beauty,Makeup,RadiantYou,95.96,100.34
+414,Product_414,Fashion,Footwear,ChicStyle,105.62,109.43
+415,Product_415,Groceries,Daily Essentials,GreenBasket,16.89,10.65
+416,Product_416,Books,Romance,NovelNest,81.26,86.9
+417,Product_417,Books,Academic,LitHaven,20.6,19.44
+418,Product_418,Fashion,Clothing,TrendVogue,103.03,94.28
+419,Product_419,Books,Sci-Fi,InkWell,87.96,80.86
+420,Product_420,Fashion,Accessories,Fashionova,116.84,112.68
+421,Product_421,Electronics,Headphones,SmartEdge,827.24,830.95
+422,Product_422,Fashion,Accessories,Fashionova,98.64,98.66
+423,Product_423,Books,Sci-Fi,Readify,41.0,36.15
+424,Product_424,Electronics,Headphones,ElectroMax,1932.31,1936.6
+425,Product_425,Groceries,Beverages,FreshMart,15.28,16.9
+426,Product_426,Groceries,Daily Essentials,GreenBasket,5.96,5.59
+427,Product_427,Home Appliances,Refrigerator,GenericBrand,3307.12,3312.62
+428,Product_428,Books,Non-Fiction,PageTurners,81.63,73.96
+429,Product_429,Books,Academic,NovelNest,40.87,45.19
+430,Product_430,Home Appliances,Microwave,GenericBrand,3298.9,3296.07
+431,Product_431,Groceries,Daily Essentials,FreshMart,21.64,24.75
+432,Product_432,Fashion,Accessories,Fashionova,178.67,169.18
+433,Product_433,Electronics,Headphones,GadgetPro,2289.89,2286.78
+434,Product_434,Groceries,Beverages,OrganicNest,13.69,20.44
+435,Product_435,Books,Non-Fiction,Readify,25.84,21.71
+436,Product_436,Fashion,Clothing,ModaFusion,219.18,219.59
+437,Product_437,Books,Non-Fiction,PageTurners,88.98,86.83
+438,Product_438,Groceries,Daily Essentials,OrganicNest,55.56,47.12
+439,Product_439,Books,Non-Fiction,LitHaven,32.24,38.17
+440,Product_440,Home Appliances,Washing Machine,GenericBrand,2596.15,2602.0
+441,Product_441,Fashion,Footwear,UrbanThreads,167.93,171.67
+442,Product_442,Beauty,Haircare,SkinEssence,78.2,82.21
+443,Product_443,Beauty,Makeup,PureGlow,117.39,116.08
+444,Product_444,Fashion,Accessories,ModaFusion,167.73,175.74
+445,Product_445,Books,Fiction,NovelNest,51.5,50.54
+446,Product_446,Beauty,Makeup,LuxeBeauty,117.95,120.7
+447,Product_447,Home Appliances,Washing Machine,GenericBrand,3259.16,3258.14
+448,Product_448,Electronics,Headphones,TechWave,1629.44,1636.74
+449,Product_449,Books,Academic,PageTurners,94.53,85.94
+450,Product_450,Groceries,Beverages,OrganicNest,46.31,48.87
+451,Product_451,Home Appliances,Washing Machine,GenericBrand,2008.29,2000.3
+452,Product_452,Electronics,Headphones,SmartEdge,1078.31,1078.46
+453,Product_453,Beauty,Skincare,PureGlow,165.08,160.39
+454,Product_454,Books,Non-Fiction,Readify,31.35,26.95
+455,Product_455,Beauty,Makeup,Glamora,78.09,84.03
+456,Product_456,Fashion,Clothing,UrbanThreads,81.56,89.7
+457,Product_457,Fashion,Accessories,EleganceCo,222.88,215.7
+458,Product_458,Beauty,Makeup,SkinEssence,146.69,150.08
+459,Product_459,Books,Sci-Fi,NovelNest,55.73,55.66
+460,Product_460,Electronics,Camera,TechWave,1088.73,1097.1
+461,Product_461,Groceries,Beverages,DailyHarvest,34.57,27.88
+462,Product_462,Books,Academic,Readify,54.11,49.01
+463,Product_463,Groceries,Beverages,GreenBasket,15.33,24.07
+464,Product_464,Home Appliances,Washing Machine,GenericBrand,3056.72,3058.6
+465,Product_465,Beauty,Haircare,PureGlow,181.52,187.43
+466,Product_466,Fashion,Accessories,EleganceCo,214.03,209.93
+467,Product_467,Groceries,Beverages,DailyHarvest,19.31,23.45
+468,Product_468,Groceries,Beverages,PurePantry,57.34,48.25
+469,Product_469,Books,Sci-Fi,Readify,54.64,58.05
+470,Product_470,Home Appliances,Washing Machine,GenericBrand,3078.93,3070.06
+471,Product_471,Beauty,Makeup,Glamora,185.32,195.62
+472,Product_472,Home Appliances,Washing Machine,GenericBrand,3293.57,3291.77
+473,Product_473,Fashion,Footwear,TrendVogue,172.51,165.26
+474,Product_474,Fashion,Footwear,UrbanThreads,240.37,237.61
+475,Product_475,Groceries,Daily Essentials,OrganicNest,44.13,45.04
+476,Product_476,Beauty,Makeup,Glamora,193.98,195.66
+477,Product_477,Groceries,Daily Essentials,FreshMart,47.1,42.05
+478,Product_478,Groceries,Beverages,FreshMart,9.84,4.68
+479,Product_479,Beauty,Skincare,LuxeBeauty,112.97,103.87
+480,Product_480,Home Appliances,Washing Machine,GenericBrand,2767.67,2763.52
+481,Product_481,Beauty,Haircare,SkinEssence,120.81,114.07
+482,Product_482,Groceries,Daily Essentials,FreshMart,36.55,44.7
+483,Product_483,Home Appliances,Refrigerator,GenericBrand,2318.66,2310.62
+484,Product_484,Electronics,Laptop,ElectroMax,1693.12,1686.25
+485,Product_485,Fashion,Footwear,ModaFusion,99.43,101.16
+486,Product_486,Books,Sci-Fi,NovelNest,90.25,85.89
+487,Product_487,Home Appliances,Microwave,GenericBrand,2695.24,2692.6
+488,Product_488,Home Appliances,Washing Machine,GenericBrand,2336.7,2346.36
+489,Product_489,Books,Romance,PageTurners,59.9,67.55
+490,Product_490,Books,Non-Fiction,NovelNest,45.85,39.15
+491,Product_491,Beauty,Haircare,LuxeBeauty,76.38,70.75
+492,Product_492,Beauty,Skincare,RadiantYou,154.95,163.83
+493,Product_493,Groceries,Beverages,GreenBasket,49.38,57.2
+494,Product_494,Beauty,Haircare,SkinEssence,55.11,50.89
+495,Product_495,Fashion,Clothing,TrendVogue,105.91,99.17
+496,Product_496,Home Appliances,Refrigerator,GenericBrand,2385.13,2381.22
+497,Product_497,Books,Fiction,PageTurners,58.28,65.85
+498,Product_498,Beauty,Skincare,SkinEssence,80.58,80.73
+499,Product_499,Electronics,Headphones,TechWave,903.22,906.38
+500,Product_500,Home Appliances,Microwave,GenericBrand,2023.03,2032.28
